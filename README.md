@@ -1,8 +1,63 @@
+# HR Analytics Dashboard
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+
+## Project Overview
+
+Developed a multi-page HR Analytics Dashboard in Power BI to analyze workforce demographics, salaries, bonuses, diversity, and attrition trends.
+
+The dashboard provides HR teams and decision-makers with interactive insights to monitor employee performance, workforce composition, salary structures, and retention metrics.
+
+## Business Objectives
+
+- Monitor workforce performance and employee distribution.
+- Analyze salary trends across departments.
+- Track employee attrition and retention metrics.
+- Understand workforce demographics and diversity.
+- Support data-driven HR decision-making.
+
+## Key KPIs
+
+- Total Employees: 1,000
+- Total Salaries: $113.22M
+- Average Salary: $113K
+- Average Age: 44
+- Average Bonus: 8.87%
+- Attrition Rate: 9.29%
+
+## Business Analysis & Recommendations
+
+In addition to building the dashboard, a complete executive presentation was developed to communicate key findings, business risks, and strategic recommendations.
+
+### Key Findings
+
+- Workforce concentration in critical departments increases operational risk.
+- Bonus distribution varies across departments and employee groups.
+- Certain departments show higher attrition rates and retention challenges.
+- Workforce age distribution highlights future succession planning needs.
+- High salary concentration creates dependency risks on key employees.
+
+### Strategic Recommendations
+
+- Implement targeted retention strategies for high-risk departments.
+- Establish clear bonus governance and compensation policies.
+- Develop succession planning initiatives for critical roles.
+- Monitor workforce KPIs through quarterly reviews.
+- Improve workforce planning using department-level analytics.
+
 ## Dashboard Overview
 
 This HR Analytics Dashboard was developed in Power BI to provide comprehensive workforce insights across employee demographics, salaries, bonuses, diversity, and attrition trends.
 
 The dashboard enables HR teams and decision-makers to monitor workforce performance through interactive visualizations, KPI tracking, and advanced filtering capabilities.
+
+---
 
 ### Summary View
 
@@ -18,6 +73,7 @@ Key metrics including:
 - Attrition Rate
 
 Additional insights:
+
 - Employees by Department
 - Employees by Gender
 - Salary Distribution by Department
@@ -77,6 +133,25 @@ Detailed workforce reporting including:
 - Department-Level Salary Statistics
 
 ---
+
+## Skills Demonstrated
+
+- HR Analytics
+- Workforce Analytics
+- Power BI Dashboard Development
+- DAX Measures
+- Power Query
+- Data Modeling
+- KPI Development
+- Data Visualization
+- Business Intelligence
+- Executive Reporting
+- Strategic Recommendations
+
+## Project Files
+
+- hr-analytics-dashboard.pbix
+- HR Analytics Executive Presentation (.pptx)
 
 ## Business Value
 
